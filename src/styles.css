@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size:30px;
+    font-weight: 600;
+    letter-spacing: normal;
+    /*line-height: 54px;*/
+    text-transform: uppercase;
+    width:fit-content;
+    text-align: center;
+  
+  }
+
+
+  .bg-primary {
+    background-color: #333 !important;
+  }
